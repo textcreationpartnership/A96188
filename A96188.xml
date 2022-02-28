@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The VVelsh doctor: or, The VVelsh-man turned physitian, being a new way to cure all diseases in these distracted times of ours, viz. 1. You shall see by this book that her have skill in all the 12. signs, and knowledge of all the humors, and likewise of her sences in folks podies [sic]. ... 8. Her will do more admirable cures then her cozens in the Colledge of Physitians can do by her Galen and her Hypocrates; ... / By Shinkin ap Morgan, Professor of te [sic] medicall arts and sciences.</title>
+            <author>Morgan, Shinkin ap.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96188</idno>
+            <idno type="STC">Wing W1317</idno>
+            <idno type="STC">Thomason E538_5</idno>
+            <idno type="STC">ESTC R206020</idno>
+            <idno type="EEBO-CITATION">99865227</idno>
+            <idno type="PROQUEST">99865227</idno>
+            <idno type="VID">117464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96188)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117464)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The VVelsh doctor: or, The VVelsh-man turned physitian, being a new way to cure all diseases in these distracted times of ours, viz. 1. You shall see by this book that her have skill in all the 12. signs, and knowledge of all the humors, and likewise of her sences in folks podies [sic]. ... 8. Her will do more admirable cures then her cozens in the Colledge of Physitians can do by her Galen and her Hypocrates; ... / By Shinkin ap Morgan, Professor of te [sic] medicall arts and sciences.</title>
+                  <author>Morgan, Shinkin ap.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.A.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Shinkin ap Morgan is a pseudonym.</note>
+                  <note>Originally published as: The Welch doctor.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan: 12. 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117464:1" rendition="simple:additions"/>
+            <p>The VVelſh DOCTOR: <hi>OR,</hi> The VVelſh-man turned Phyſitian, being a new way to cure all diſeaſes in theſe diſtracted times of ours, <hi>VIZ.</hi>
+            </p>
+            <list>
+               <item>1. You ſhall ſee by this book that her have skill in all the 12. Signs, and know<g ref="char:EOLhyphen"/>ledge of all the Humors, and likewiſe of her ſences in folks podies.</item>
+               <item>2. Her will cure all the Agues that are in her States and her Kingdomes, ari<g ref="char:EOLhyphen"/>ſing from factious and her turbulent humors.</item>
+               <item>3. Her undertakes to cure perfectly all the Diſeaſes in her ſhe-cozens, as the glim'ring of her Giſzard, the quavering of her Kidney, with all paines and vento<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies in her pelllies.</item>
+               <item>4. Her will undertake by her Receits and her Potions to make all omens that are barrons be as pig as her can tumble in two or three nights.</item>
+               <item>5. Her profeſſes to reſtore to all her diſtreſſed cozens that have got the wam<g ref="char:EOLhyphen"/>bling trot, or diſlocation in her pellies to her perfect health; that is, her will re<g ref="char:EOLhyphen"/>ſtore her Maiden-heads, &amp; her Virginities in a ſmall ſpace, and with much facilities.</item>
+               <item>6. Her will ſet all the bones that were broken at our late battells among her cozens, though it were in her necks.</item>
+               <item>7. Her will with her purge and her vomits cleare the ſtomack of her Church of all her Errors.</item>
+               <item>8. Her will do more admirable cures then her cozens in the Colledge of Phy<g ref="char:EOLhyphen"/>ſitians can do by her Galen and her Hypocrates; and whereas it is caknown, that her Engliſh Doctors kill not above thee quarters of her Patients that come under her hands, her will undertake to kill them all by her excellent receits, and make her alive agen in an inſtant.</item>
+            </list>
+            <p>By <hi>Shinkin</hi> ap <hi>Morgan,</hi> Profeſſor of te Medicall Arts and Sciences.</p>
+            <p>Printed by <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. A.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117464:2"/>
+            <head>The Welſh Doctor.</head>
+            <p>FIrſt then to begin in priefe, for her hates to be tedious or to uſe preambles <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long as our Welſh or your Taylors bills; her friend and couzen <hi>Jenkin,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Taffie, <g ref="char:V">Ʋ</g>p Rice, <g ref="char:V">Ʋ</g>p Pew Gravock</hi> will in as ſhort phraſes and elocutions as is po<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ble for a man of her calling come to the puſineſſe, which as her takes it, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> does all her famous ancient couzens and companions in the Mathematicks: Alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Ptolomy, Albumazar,</hi> and all learned Hebrew Rabbies, that writ and made ſcrip<g ref="char:EOLhyphen"/>tions of this matter three thouſand yeares before her couzen <hi>Noah's</hi> Flood is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>iſh language: as concerning the diſpoſitions and conſtitutions of her podies in which <hi>Jenkin</hi> obſerves that their be five humours, as <hi>Ploud, Phleagme, Choll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> and <hi>Melancholly,</hi> with another humour far worſe then all theſe, marry her canno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well remember her names and appellations, but it is called as her takes it, a ſcur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> malignant humour, which is predominant in too many, and that is ſufficient teſti<g ref="char:EOLhyphen"/>monies to have known it by, it containes all the reſt of the humours, and is princi<g ref="char:EOLhyphen"/>pally predominant in her Couzens when her have well ſcoured her welſh-ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with Metheglin, it occaſions prittle prattles and piple paples in her ſhee couzen whoſe tongues and tayles love alwaies to have her motions and figaries; N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Blood</hi> which is the firſt humour, is the life of man and it makes man have a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> colour, and well complexioned.</p>
+            <p>
+               <hi>Phleagm,</hi> that is a ſcurvy watriſh humour, being a humour given much to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mongers and Fiſh-wives, and thoſe that dwell neere <hi>Billins-gate.</hi>
+            </p>
+            <p>
+               <hi>Choller,</hi> that is a fiery hot humour which rules in many mens podies, and moſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her Welſh and Brittiſh Nation, for when her <hi>Choller</hi> is moved, then her is all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fire to vent it.</p>
+            <p>
+               <hi>Melancholly,</hi> that is a dogged and a duſty, muſty humour, compounded of <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d <hi>Coal</hi> which makes it be called <hi>Melancholly;</hi> of that baſe humour is her Cou<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Prince <hi>Ruperts</hi> dog, whoſe name is <hi>Puddle.</hi>
+            </p>
+            <p>And ſo much is her conjectures and opinions concerning her five humours<g ref="char:punc">▪</g> his owne podies, and her Couzens; now to her ſenſes.</p>
+            <p>There be ſix ſenſes which her findes in <hi>Jeffery</hi> of <hi>Monmouth</hi> and other of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pretiſh writers to be juſt ſo many, that is to ſay number ſix, firſt the ſence of <hi>Seeing<g ref="char:punc">▪</g>
+               </hi> ſecondly the ſence of <hi>Hearing,</hi> thirdly the ſence of <hi>Smelling,</hi> fourthly the ſence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Taſting,</hi> fifthly the ſence of <hi>Feeling,</hi> the ſixt ſence being more dangerous then <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the reſt, which is her wives tongue, which makes up perfectly the ſixt ſence; for will call her a thouſand baſe denominations and titles; amongſt which Rogue <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Raſcall are her courteſies and her complements; The ſence of <hi>Seeing</hi> is moſt pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dominant in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mathematicians who had need have good ſights to know <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:117464:2"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouzens the ſtars by their complexions, as her Uſurers to look narrowly to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ags, and in her old men who have young wives leaſt her make look <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouzen <hi>Acteons.</hi> Her ſence of <hi>Hearing</hi> ſhould be moſt pregnant in her Browniſts<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nabaptiſts, and Round-heads, becauſe her have none of that exerement of long <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ks to beat off the ſound, yet will they never hear wholſome doctrine, but long <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inded exerciſes: her ſence of <hi>Smelling</hi> her conſignes to her Couzens of <hi>North<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ales</hi> where it is moſt employed in receiving the delicious odors and perfumes of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſted cheeſe, who hath a mountain of Couſe-bobby alwaies at her doore. Her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of <hi>Taſting</hi> is moſt perſpicuous in drinkers of Metheglin, which ever ſince <hi>Prute</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Corineus</hi> her kinſmen and progenitors hath been her Country drink. Her ſence <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Feeling</hi> her leaves to her couzens the Citizens wives who for the moſt part are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ftner left then others: And for her ſixt ſence, which is her wives tongue, that her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equeaths to the Tivell if he dare take her for his eares, and ſo by proſecutions and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rogreſſions <hi>Jenkin</hi> ſhall deſcend to delineate her twelve ſigns, and to demonſtrate <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat her is an abſolute ſcholler, and well learned in all the ſeaven liberall ſciences, which be nine by computation; as followeth: The definition or etymology of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>welve ſignes, which hath predominance over her body every day, day by day;</p>
+            <p>Firſt for the twelve Celeſtiall ſignes her do caknow them very wel, and can cal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem by their names, as her ſhall find them hereafter; But for her terreſtriall ſigns <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here be ſo many in <hi>London,</hi> that her do not caknow halfe of them; Therefore her will have nothing to do with them: the firſt celeſtiall ſigne is <hi>Aries;</hi> Now <hi>Aries</hi> in placed upon the head, eſpecially if there be any haire or beſtiall ſigne there, if not, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is very plaine, and alſo likely there is a convenient place for grafting hornes; for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that hath hornes on his fore-head need be at no charges to buy hooks to hang <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir hats on when they are at their great feaſts, and braines heated with wine.</p>
+            <p>
+               <hi>Aries</hi> is her firſt celeſtiall ſigne, and is commander over the head, which ſee<g ref="char:EOLhyphen"/>meth to be the occaſion that mens heads only have hornes: the head is the firſt houſe of man, and <hi>Aries</hi> which is a Ram, and her own Country-man, is Lord over that houſe, this ſigne has moſt predominance over Butchers, her wives and her daugh<g ref="char:EOLhyphen"/>ters, and her would adviſe all her country-men that have any motions or affecti<g ref="char:EOLhyphen"/>ons to her Butchers wives or daughters be her maids, wives, or widowes. And ſo much for her etymology or definition of her firſt ſigne <hi>Aries.</hi>
+            </p>
+            <p>Her next ſigne is <hi>Taurus</hi> ſeating her ſelfe in the nap of her necke, throat, and under her chin. This ſigne <hi>Taurus</hi> is only for men that have a bul-head, and thoſe be they who do weare out their caps on their fore-heads; and their bands in their necke, yet they be all of one degree and ſimilitude, though ſome weare but their caps before, and the other their hands behind, there is but little differences or diſtinction, for thoſe men are ſtill counted the honeſteſt men let their wives ſay what they can; but our hopes all will be well, if their wives but mend and darne up her breeches againe. And it is a very unlucky and fatall ſigne her can aſſure you<g ref="char:punc">▪</g> for when this ſigne governs her couzens that uſed to porrow her goats and her
+<pb facs="tcp:117464:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:117464:3" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:117464:4"/>cattel on her mountaines one from another have their necks and their throats <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dorned with a ruffe of hemp, which do you mark, her is the worſt of all other gar<g ref="char:EOLhyphen"/>ments: men borne under this ſigne are ſubject to bigger hornes then thoſe under <hi>Aries</hi> (for her knowes that a bulls hornes are longer then a Ramms hornes) and therefore had need to be buried with her faces downward to avoid ſtumblings, and titubations in her Church-yards, market places, this ſign is only fortunate and propitious to <hi>Gregory</hi> and the hangmen throughout the whole world, and fatall to high-way men, who by the malignity of this ſigne very often come to finiſh their daies at <hi>Tiburne.</hi>
+            </p>
+            <p>Her third ſigne is <hi>Gemini</hi> which in her welſh or heathen greek ſignifies a gem<g ref="char:EOLhyphen"/>mall ring, for look you as her gemmall ring infolds and intwines one link within another, but in plain Engliſh, it is a cloſe ſtool; for when her wife <hi>Jones</hi> buttocks are upon the cloſe ſtool, what can be more geminating or more cloſer: ſo doth your <hi>Gemini</hi> which has his reſidence in her armes, becauſe with her armes her do beſtow uſually her embraces, under your <hi>Gemini</hi> are borne moſt of her handſome ſhe couzens in Court, City and Countrey.</p>
+            <p>This ſigne is an enemy to all phlebotomy and bloud-letting in any man, but in the Spring time by her woman Surgeon, and ſo much for <hi>Gemini.</hi>
+            </p>
+            <p>
+               <hi>Cancer</hi> is her fourth ſigne which is our greek <hi>Ancer;</hi> which is in <hi>Engliſh</hi> a youn<g ref="char:EOLhyphen"/>ger brother; ſuch a one was her when her went to <hi>Kenton</hi> battell; for when her went away her deſired her pay, anſwer was made, there was none: this ſigne <hi>Can<g ref="char:EOLhyphen"/>cer</hi> hath her predominance in her breaſt, pointing to her very heart: this ſigne was in her force at the battell of <hi>Kenton</hi> where her couzens like faliant Welſh-men did not run away no faſter then their legs could carry her, marry 'twas without ſhoot or boots, on her bare ten toes as her is a true Shentleman of <hi>Wales</hi> and a Trojan: This ſign is moſt appropriate to her Piſhops and Prelates where ſince the domina<g ref="char:EOLhyphen"/>tion hereof have changed her miters into corner caps, her couzens Saint <hi>Taffies</hi> the Arch piſhop of <hi>Wales</hi> his breech making buttons, this ſigne betokens that many Citizens ſhall teede upon ſpiders which ſhall do them more harme then they do her other monkies, and make them break in great abundance all to peices.</p>
+            <p>
+               <hi>Leo</hi> is her fifth ſigne which ſignifies in greeke a Lyon, now her muſt needs con<g ref="char:EOLhyphen"/>feſſe her never ſaw a Lyon in all her life but once, that was at <hi>Edge-hill,</hi> her had a white face and her two hands and her two legs was bound together and carried before a man on horſe-back to the next market: now this furious beaſt hath his domination in the back, this ſigne has his operation over Porters and men of bur<g ref="char:EOLhyphen"/>den, whereas theſe times ſtand are men of ſcurvy carriage, her couzens of <hi>Wales</hi> that had out-ranne an errand, and carry water to her friends houſes being out of date, for in the City there is ſo ſmall trading they need but little water to dreſſe their victualls.</p>
+            <p>Her next ſigne is <hi>Virgo</hi> which has her ſeat in her waſt, hence it is that if her Vir<g ref="char:EOLhyphen"/>gins be ſo ſlippery in the waſts as her Ecls in her taile, this ſigne has all her
+<pb facs="tcp:117464:4"/>wholſome whores and harlots under her, and betokens that if there be foure Virgins above fifteen in a Pariſh or twenty in a City, a miracle above her nine wonders.</p>
+            <p>
+               <hi>Libra</hi> is her ſixt ſigne which ſignifies in Creek, firſt a lye, ſecondly a morter and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bray, which put together, makes <hi>Libra,</hi> and ruleth her belly and her navel, this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne had her powers and her operations over her couzen <hi>Winifred,</hi> and her Cou<g ref="char:EOLhyphen"/>zens <hi>
+                  <g ref="char:V">Ʋ</g>rſulant,</hi> her eleven thouſand Virgins that were ſo chaſt they feared not what man could do unto them: this ſigne has little to do with maids, that love <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lye with their faces upwards, and therefore her is ſeldome converſant with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nne-keepers and Ale-wives. Her alſo betokens much paine in the guts to thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat can get no victualls, and dreadfull trembling in <hi>her</hi> bellies, and to <hi>her</hi> couzens <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat feed only on the fat of her leek and the green onion, <hi>her</hi> being much trou<g ref="char:EOLhyphen"/>bled with ventoſities and blowing her noſes backwards.</p>
+            <p>Her next ſigne is <hi>Scorpio</hi> which ſignifies a hedg-hog or an Urchin: which is her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igne of her privaties or copulation members, this ſigne is predominant in moſt men from fifteen to fifty.</p>
+            <p>
+               <hi>Sagitarus</hi> is her 8. ſigne, which ſignifies an Archer, or one that ſhoots at pricks; and has his ſeat in her thigs, a terrible ſigne here is, and very adverſe to her Country-men the Brittains, for her is nothing fortunate in her ſlights and exerciſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f her things in running away, and in races, as divers of her couzens at <hi>Kenton</hi> ma<g ref="char:EOLhyphen"/>nifeſted by wofull experience.</p>
+            <p>
+               <hi>Capricorn</hi> is her 10. ſign, which ſignifies her welſh goat or Veniſon, and rules in her hams or her knees: Hence her Dancers are called Caperers: for they can ca<g ref="char:EOLhyphen"/>per without hurting their cornes, which jumps and leaps, <hi>ſine</hi> cornes, and ſo with<g ref="char:EOLhyphen"/>out hurt: but indeed her may be more properly applyed to her heads, for <hi>Capri<g ref="char:EOLhyphen"/>cornus</hi> is as much to ſay in her welſh greek horns, this ſign is proper to all Cuckolds and ſuch perſons in the City as love to have their hornes exalted above their neighbours, ſuch as for the moſt part your Sectaries who deteſt long hair and love her long hornes.</p>
+            <p>
+               <hi>Aquaries</hi> is her eleventh ſigne which doth ſignifie in Welſh a water-poet, one who doth rime and make ballets and other verſes, for a pot of Ale and a pipe of Tobacco: and ſo her doth learn her Countrymen to ſing.</p>
+            <p>
+               <hi>Piſces</hi> being her laſt ſign is moſt relative to the Fiſh-monger and her fiſhwives who becauſe theſe her two watry ſignes rule the feet and the legs, can never keep her legs cloſe whiles theſe ſignes are in force, this ſign is very proper to her Foot<g ref="char:EOLhyphen"/>men that run much, and to her parpateticks and walking Phyloſophers, and thus much for her twelve ſignes.</p>
+            <p>
+               <hi>And now her having done with the definition of the</hi> 12. <hi>ſignes, alſo of the five humours, and ſix ſences, and alſo of the ſeven plannets, I now begin with her Phyſicall Obſer<g ref="char:EOLhyphen"/>vations.</hi>
+            </p>
+            <pb facs="tcp:117464:5"/>
+            <p>HEr underſtanding that all her ſhee-cozens in generall are ſubject to divers qualmes and diſeaſes, her having been a long time converſant with her ſhee-cozens podies, finds by her experiences and her skills, that the generalleſt diſeaſe all her cozens are ſubject to, is the glimmering of her gizzards, an infirmity which ariſing from her ſpleen into her mouth, infects her tongue like a canker, making her call her husbands rogues and raſcalls and many other ſcurvy ords: It makes her likewiſe oftentimes to ſtrive for her breeches and break her husbands pates with her ladles and her skimmers, and is indeed an Epedemicall diſeaſe, and raining in moſt of her ſhee Couzens: The cure hereof though <hi>Gallen</hi> hath not ſet down, not her <hi>Hippocrates,</hi> nor <hi>Averroes,</hi> nor <hi>Avicen</hi> her Couzens, yet ſhall her Couzen <hi>Jen<g ref="char:EOLhyphen"/>kin</hi> in priefe declare the remedy for that diſeaſe.</p>
+            <p>Firſt when her begins to be in her ſits, her husbands ſhall perceive it by the bending of her brows, then let him apply to her a plaiſter of good words, and if that will not ſerve her turnes, let him take her good haſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cudgell or her ropes end, and baſt her as her Welſh-men do her old goats to make them eat tender, for ſo her Couzen King <hi>Tavid</hi> did; as you may find it ſome where written; And <hi>Tavid</hi> went in and did ſo lace his wife; therefore her and aule her Country-men may therefore baſt their wives by authority and priviledg, and liberty of the ſubject: for her do find it by experience and by her reading<g ref="char:punc">▪</g> that the more her do beat her Walnut-trees, and her Spaniel and Camomel banck be baſted or troden, the more fruit it will bear; and the women love their husbands the better, and this wil cure her preſently, which twice or thrice applyed to her ſides. There is another remedy which <hi>Jenkin</hi> her ſelfe hath often uſed with her Wives, which is to take her as her fit begins, and lay her upon her back and tickle her Tuquoques, and it ſhall cure her in an inſtant; <hi>Probatum eſt.</hi>
+            </p>
+            <p>The quavering of the kidneys in her ſhe cozens is, when her is full of her luſts and concupiſcences, and her much longings and deſires to make her husbands cuc<g ref="char:EOLhyphen"/>kolds. In Spaine her couzens the Spaniards have excellent remedies for theſe diſ<g ref="char:EOLhyphen"/>eaſes in her wives; for as ſoon as her perceives and caknowes that her wives are bent to be ſick of the quavering of her kidneys, her lets her bloud in her breſt or in the bellies with her ſword or her taggers; marry Jenkin would wiſh her couzens to uſe this eaſier remedies and medicines, which is when her omans fleſh riſes, and would go to mans, let her husbands give her two ounces of good inſtructions, with three drams of the oyl of man diſtil'd through his own limbeck, a vomit and a po<g ref="char:EOLhyphen"/>tion made of opium and her turneps; then let her have a diet for a moneth of her Welſh leeks without bread or ſalt, and it ſhall recover her perfectly; <hi>probatum est.</hi>
+            </p>
+            <p>For her barren cozens, her ſhall by her preſervatives and her medicines make her as pregnant as her heart can wiſh, and have every yeer a ſhild if there be no defect in the capacities of her podies. Firſt let her eat the braines of a he goat mixt with the marrow of a Stoat, or Pole-cat (her may caknow him by her ſmell and her ſavours) with the fleſh of her monkies for a fortnights, and trink every morning a
+<pb facs="tcp:117464:5"/>pottle of her beſt and Welſh Metheglins; Then let her get her into a good ſoft beds and have every night for the ſpace of a moneth a luſty young man to her bed<g ref="char:EOLhyphen"/>fellowes to ſalute her bodies and recreate her kidneys, and if her be not with ſhild <hi>Jenkin</hi> will forfeit her reputations in phyſicks. This medicine is moſt predominan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over her Couzens in her Cities, and may ſerve indeed for omens of all Nations under forty years of age, whereas divers of her Couzens have had the wambling trot in her pellies, or the diſlocation in the martix which is occaſioned by much ploods and icches in her podies, whereby oftentimes her comes to looſe her Mai<g ref="char:EOLhyphen"/>den-heads and her Virginities, which her fooliſh Phyſitians in times paſt knew not how to cure.</p>
+            <p>
+               <hi>Jenkin</hi> for the good of her deareſt Cozens hath found out the medicines that will reſtore her to her Virginities, which is, her muſt take a peck of Ferne-ſut ga<g ref="char:EOLhyphen"/>thered on Midſummer night, with two ounces of Moon-ſhine taken out of the river of Dee at noon daies, ſix eyes of the <hi>Phoenix,</hi> ſeven eyes of <hi>Argus</hi> which her Cozen <hi>Mercury</hi> pull'd out of her head, the braine of the bird of Paradiſe which ſung to her Granſieur <hi>Adam,</hi> the fleſh of the buttock of one of her Welſh Goats which her Cozen <hi>Noahs</hi> had in her Arks, the juice of the apple which her Grand<g ref="char:EOLhyphen"/>mother <hi>Eve</hi> eat at the inticement of the Serpent, the head of the great huge fiſh of two hundred yards long, that was taken in Eighty eights with a great ruffe like a Spaniard, above London-Bridge, a bottle full of the water of the Inchanters wells, which was kept by the great Dragons that was overcome by her Cozens <hi>Palmerius,</hi> and S. <hi>Tavid,</hi> two yards of freeze which was in her Prophet <hi>Merlins</hi> old coates, five onions of <hi>Jenkins</hi> own planting, and ſix pound of leeks, take all theſe, and ſtamp them upon the ſtone where <hi>Iacob</hi> ſlept, and ſtraine them through one of the clouds which hang over her Welſh mountaine, and then take all theſe her ingredients, and lap her up in a yard of butter-ſlies skins, and lay her warm to her Cozens bottome of her bellies, and ſo let her renew the plaiſter or cata<g ref="char:EOLhyphen"/>plaſme, do you ſee, every night afreſh, and it ſhall make her Cozens as found and firme in her Maiden-heads and her Virginities, as ever her was in her lifes, and her may be certain that <hi>Jenkin</hi> hath made his explorations and experiments upon this medicine, and find it to be very availeable; <hi>Probatum eſt.</hi>
+            </p>
+            <p>Her alſo does undertake to cure all her Agues and Fevers that are in her States and her Kingdomes ariſing from her factious and malignant humors, which indeed and in ſooth none can cure without phlebotomy or blood-letting, but her Cozen <hi>Jenkins,</hi> which muſt be done in this manner: Firſt, her State or her Kingdome muſt take fifty or threeſcore heads of her Malignants and poyle them to a jelly in a hundred Cavaliers ploods, then take the fat of ſix Jeſuites that were hang'd, drawn, and quarter'd at Tyburn, (do you mark) and with the brawn of a hundred Prelates buttocks ſtewed in Metheglins, and let all theſe ingredients be laid on the ſtomack of her State of her Kingdom, and it ſhall expell her Agues and her Fevers; or otherwiſe, take two ounces and ſix pound of the long haire of
+<pb facs="tcp:117464:6"/>your Roundheads, which in Welſh her calls Ruſſetings, and make therewith a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a-pulſive, with the plood of ſome Anabaptiſts, and applyed as aforeſaid, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſick State ſhall recover immediately without the help of her Doctors an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her Phyſitians, as <hi>Jenkin</hi> has made divers times her experiences and probations upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all the Kingdomes of <hi>Aſia</hi> the leſſe; <hi>Probatum eſt.</hi>
+            </p>
+            <p>Next, whereas her has been informed, that divers of her Cozens have loſt he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> legs and her armes, and many of her have broke her necks at Kenton Battells, he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> has ſtudied a medicine that ſhall recover her perfectly, let her come to her Coze<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Jenkins</hi> lodgings at the ſigne of the Welſh Goat in Garlick-lane, with her broke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> legs, arms, or necks, and her will make her as ſound as ever her was in her lifes <hi>Probatum eſt.</hi>
+            </p>
+            <p>Next her does profeſſe to give her Church a vomit, and a purge that ſhall make her free from all her paines in the ſtomack, her muſt firſt take a long ſtick of <hi>Stibi<g ref="char:EOLhyphen"/>um</hi> which in Welſh is called the Gallows, and hang thereon three hundred Brow<g ref="char:EOLhyphen"/>niſts, five hundred Anabaptiſts, and as many of all ſorts of her Separatiſts, and then let her dry in the Sun fourteen weeks, and then beat her to powder and mixt her with a great deale of oyle extracted from her Round-heads locks, and let this be given to her Church through the great Organ pipe that is ſhut up in her Church of <hi>Pauls,</hi> and it ſhall make her Church vomit and purge up all her errors and her hereſies, and put her into as good ſtates and conditions of her health as her was in the daies of her Apoſtles, eſpecially when her Couzen <hi>Jenkin</hi> gives her glyſter to make her evacuate her Piſhops and Prelates backwards which muſt be compounded on this manner. Firſt her muſt take two handfulls of herb a grace of which there is enough in her Welſh mountaines, and mingle it with the ſurrups of two and twenty Miters, boyl'd in the juyce of as many Rochets and Surplices, and let it be put in at the fundament or porch of the Church, and it ſhall give her thirty or for<g ref="char:EOLhyphen"/>ty of her ſtooles which ſhall cleare her podies of all her Piſhops and her Prelates, and ſend her to the Tivell with a vengence.</p>
+            <p>Laſtly with her dyet and her purge, her cordiall and her vomit, her will cure all her couzens that are Cuckolds of her hornes, and make her brows as ſmooth at the backs of her hands, which, if any of all her <hi>London</hi> Phyſitians can performe, <hi>Jenkin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> will never ſet up her pills nor her preſcriptions, her wil alſo with contection of toſted cheeſe, metheglin, green leeks and onions, undertake to kill her a hundred a day, and with her goats milk mixt with the buds of her welſh gunſhot which is Engliſh is called <hi>Elderne,</hi> reſtore her againe to her lifes in a minutes ſpace, and a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this be performed by <hi>Jenkin ap Morgan</hi> Dr. of <hi>Phyſgig;</hi> and ſtudier of all the art of medicine as her teſtifies under her hands and hopes that all her Couzens that are ſick of the ſaid diſeaſes will buy her couzens book of medicines and repair to her for cures and advice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
